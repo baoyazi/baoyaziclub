@@ -1,3 +1,3 @@
 # baoyaziclub
 
-welcome  [BAOYAZI Pages](https://pages.baoyazi.com/).
+welcome  [BAOYAZI Pages](https://www.baoyazi.com/).
